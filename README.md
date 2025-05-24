@@ -1,4 +1,4 @@
-# basic-javascript-projects](https://azizulkabirjayed.github.io/basic-javascript-projects/
+##https://azizulkabirjayed.github.io/basic-javascript-projects/
 <a id="readme-top"></a>
 # About The Project
 This project was developed as part of the CSE391 course assignment at BRAC University.
