@@ -13,5 +13,6 @@ You can find the assignment details here: <a href="https://github.com/azizulkabi
 
 
 # Deployments
-The project is live and accessible at <a href="https://azizulkabirjayed.github.io/basic-javascript-projects/"> here </a>.
+The project is live and accessible at here: <a href="https://azizulkabirjayed.github.io/basic-javascript-projects/">click here </a>.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
