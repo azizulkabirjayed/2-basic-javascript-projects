@@ -1,4 +1,3 @@
-##https://azizulkabirjayed.github.io/basic-javascript-projects/
 <a id="readme-top"></a>
 # About The Project
 This project was developed as part of the CSE391 course assignment at BRAC University.
@@ -11,3 +10,8 @@ You can find the assignment details here: <a href="https://github.com/azizulkabi
 * vanila css
 * vanila javascript
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+#Deployments
+The project is live and accessible at <a href="https://azizulkabirjayed.github.io/basic-javascript-projects/"> here </a>.
+
